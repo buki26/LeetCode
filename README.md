@@ -10,3 +10,4 @@ some exercises of leetcode
 | 13     |         [romanToInt 罗马数字转整数](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/13-romanToInt.md)         |    Easy    |
 | 14     | [longestCommonPrefix 最长公共前缀](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/14-longestCommonPrefix.md) |    Easy    |
 | 20     |              [isValid 有效的括号](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/20-isValid.md)              |    Easy    |
+| 21     |     [mergeTwoLists 合并两个有序链表](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/21-mergeTwoLists.md)     |    Easy    |
