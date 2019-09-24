@@ -12,3 +12,4 @@ some exercises of leetcode
 | 20     |                [isValid 有效的括号](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/20-isValid.md)                |    Easy    |
 | 21     |       [mergeTwoLists 合并两个有序链表](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/21-mergeTwoLists.md)       |    Easy    |
 | 26     | [removeDuplicates 删除排序数组中的重复项](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/26-removeDuplicates.md) |    Easy    |
+| 27     |           [removeElement 移除元素](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/27-removeElement.md)           |    Easy    |
