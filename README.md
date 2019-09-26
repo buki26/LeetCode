@@ -14,3 +14,4 @@ some exercises of leetcode
 | 26     | [removeDuplicates 删除排序数组中的重复项](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/26-removeDuplicates.md) |    Easy    |
 | 27     |           [removeElement 移除元素](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/27-removeElement.md)           |    Easy    |
 | 28     |               [strStr 实现 strStr()](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/28-strStr.md)                |    Easy    |
+| 35     |          [searchInsert 搜索插入位置](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/28-searchInsert.md)          |    Easy    |
