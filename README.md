@@ -16,3 +16,4 @@ some exercises of leetcode
 | 28     |               [strStr 实现 strStr()](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/28-strStr.md)                |    Easy    |
 | 35     |          [searchInsert 搜索插入位置](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/35-searchInsert.md)          |    Easy    |
 | 38     |               [countAndSay 报数](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/38-countAndSay.md)               |    Easy    |
+| 53     |            [maxSubArray 最大子序和](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/53-maxSubArray.md)            |    Easy    |
