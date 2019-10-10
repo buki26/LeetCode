@@ -17,3 +17,4 @@ some exercises of leetcode
 | 35     |          [searchInsert 搜索插入位置](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/35-searchInsert.md)          |    Easy    |
 | 38     |               [countAndSay 报数](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/38-countAndSay.md)               |    Easy    |
 | 53     |            [maxSubArray 最大子序和](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/53-maxSubArray.md)            |    Easy    |
+| 58     |   [lengthOfLastWord 最后一个单词的长度](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/58-lengthOfLastWord.md)   |    Easy    |
