@@ -19,3 +19,4 @@ some exercises of leetcode
 | 53     |            [maxSubArray 最大子序和](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/53-maxSubArray.md)            |    Easy    |
 | 58     |   [lengthOfLastWord 最后一个单词的长度](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/58-lengthOfLastWord.md)   |    Easy    |
 | 66     |                   [plusOne 加一](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/66-plusOne.md)                   |    Easy    |
+| 67     |              [addBinary 二进制相加](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/67-addBinary.md)              |    Easy    |
