@@ -25,3 +25,4 @@ some exercises of leetcode
 | 83     | [deleteDuplicates 删除排序链表中的重复元素](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/83-deleteDuplicates.md) |    Easy    |
 | 88     |                [merge 合并两个有序数组](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/88-merge.md)                |    Easy    |
 | 100    |              [isSameTree 相同的树](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/100-isSameTree.md)               |    Easy    |
+| 101    |            [isSymmetric 对称二叉树](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/101-isSymmetric.md)             |    Easy    |
