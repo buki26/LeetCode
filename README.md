@@ -27,3 +27,4 @@ some exercises of leetcode
 | 100    |              [isSameTree 相同的树](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/100-isSameTree.md)               |    Easy    |
 | 101    |            [isSymmetric 对称二叉树](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/101-isSymmetric.md)             |    Easy    |
 | 104    |            [maxDepth 二叉树的最大深度](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/104-maxDepth.md)             |    Easy    |
+| 107    |   [levelOrderBottom 二叉树的层次遍历 II](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/107-levelOrderBottom.md)   |    Easy    |
