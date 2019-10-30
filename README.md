@@ -29,3 +29,4 @@ some exercises of leetcode
 | 104    |              [maxDepth 二叉树的最大深度](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/104-maxDepth.md)              |    Easy    |
 | 107    |    [levelOrderBottom 二叉树的层次遍历 II](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/107-levelOrderBottom.md)     |    Easy    |
 | 108    | [sortedArrayToBST 将有序数组转换为二叉搜索树](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/108-sortedArrayToBST.md) |    Easy    |
+| 110    |               [isBalanced 平衡二叉树](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/110-isBalanced.md)               |    Easy    |
