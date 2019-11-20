@@ -36,3 +36,4 @@ some exercises of leetcode
 | 119    |                  [getRow 杨辉三角 II](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/119-getRow.md)                   |    Easy    |
 | 121    |            [maxProfit 买卖股票的最佳时机](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/121-maxProfit.md)            |    Easy    |
 | 122    |          [maxProfit 买卖股票的最佳时机 II](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/122-maxProfit.md)           |    Easy    |
+| 125    |             [isPalindrome 验证回文串](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/125-isPalindrome.md)             |    Easy    |
