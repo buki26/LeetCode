@@ -37,4 +37,5 @@ some exercises of leetcode
 | 121    |            [maxProfit 买卖股票的最佳时机](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/121-maxProfit.md)            |    Easy    |
 | 122    |          [maxProfit 买卖股票的最佳时机 II](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/122-maxProfit.md)           |    Easy    |
 | 125    |             [isPalindrome 验证回文串](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/125-isPalindrome.md)             |    Easy    |
-| 136    |             [singleNumber 只出现一次的数字](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/136-singleNumber.md)             |    Easy    |
+| 136    |          [singleNumber 只出现一次的数字](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/136-singleNumber.md)          |    Easy    |
+| 141    |                  [hasCycle 环形链表](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/141-hasCycle.md)                  |    Easy    |
