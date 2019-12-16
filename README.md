@@ -40,3 +40,4 @@ some exercises of leetcode
 | 136    |          [singleNumber 只出现一次的数字](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/136-singleNumber.md)          |    Easy    |
 | 141    |                  [hasCycle 环形链表](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/141-hasCycle.md)                  |    Easy    |
 | 155    |                   [MinStack 最小栈](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/155-MinStack.md)                   |    Easy    |
+| 160    |       [getIntersectionNode 相交链表](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/160-getIntersectionNode.md)       |    Easy    |
