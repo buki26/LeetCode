@@ -42,3 +42,4 @@ some exercises of leetcode
 | 155    |                   [MinStack 最小栈](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/155-MinStack.md)                   |    Easy    |
 | 160    |       [getIntersectionNode 相交链表](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/160-getIntersectionNode.md)       |    Easy    |
 | 167    |                  [twoSum 两数之和 II](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/167-twoSum.md)                   |    Easy    |
+| 168    |       [convertToTitle Excel 表列序号 II](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/168-convertToTitle.md)        |    Easy    |
