@@ -45,3 +45,4 @@ some exercises of leetcode
 | 168    |       [convertToTitle Excel 表列序号 II](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/168-convertToTitle.md)        |    Easy    |
 | 169    |           [majorityElement 多数数组](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/169-majorityElement.md)           |    Easy    |
 | 171    |          [titleToNumber Excel 表列序号](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/171-titleToNumber.md)          |    Easy    |
+| 172    |           [trailingZeroes 阶乘后的零](https://github.com/buki26/LeetCode/blob/master/Solutions/Easy/172-trailingZeroes.md)           |    Easy    |
